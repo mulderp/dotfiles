@@ -1,0 +1,8 @@
+[alias]
+	br = branch
+	st = status
+	co = checkout
+
+[user]
+	email = mulder.patrick@gmail.com
+	name = mulder.patrick@gmail.com
